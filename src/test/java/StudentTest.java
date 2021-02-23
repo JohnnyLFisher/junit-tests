@@ -13,7 +13,6 @@ public class StudentTest {
 
 	@Test
 	public void testIfStudentObjCanBeCreated(){
-//		Student john = new Student(1, "john");
 		Student tom = null;
 
 		assertNotNull(john);
